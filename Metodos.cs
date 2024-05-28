@@ -19,4 +19,7 @@ namespace EspacioTareas
         }
 
     };
+    public class MoverTareas(int id){
+        
+    }
 }

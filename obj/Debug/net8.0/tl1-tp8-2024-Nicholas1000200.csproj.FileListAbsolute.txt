@@ -12,3 +12,4 @@ C:\Users\Alumno\Documents\TP08-LazarteMatheusNicolas\tl1-tp8-2024-Nicholas100020
 C:\Users\Alumno\Documents\TP08-LazarteMatheusNicolas\tl1-tp8-2024-Nicholas1000200\obj\Debug\net8.0\tl1-tp8-2024-Nicholas1000200.pdb
 C:\Users\Alumno\Documents\TP08-LazarteMatheusNicolas\tl1-tp8-2024-Nicholas1000200\obj\Debug\net8.0\tl1-tp8-2024-Nicholas1000200.genruntimeconfig.cache
 C:\Users\Alumno\Documents\TP08-LazarteMatheusNicolas\tl1-tp8-2024-Nicholas1000200\obj\Debug\net8.0\ref\tl1-tp8-2024-Nicholas1000200.dll
+C:\Users\Alumno\Documents\TP08-LazarteMatheusNicolas\tl1-tp8-2024-Nicholas1000200\obj\Debug\net8.0\tl1-tp8-2024-Nicholas1000200.sourcelink.json
